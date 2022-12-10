@@ -1,0 +1,10 @@
+{
+  "cats": [
+    {"id":"7lr","url":"https://cdn2.thecatapi.com/images/7lr.jpg","width":616,"height":800},{"id":"9tc","url":"https://cdn2.thecatapi.com/images/9tc.jpg","width":3648,"height":2736},{"id":"bvs","url":"https://cdn2.thecatapi.com/images/bvs.jpg","width":900,"height":600},{"id":"cn0","url":"https://cdn2.thecatapi.com/images/cn0.jpg","width":612,"height":612},{"id":"dt0","url":"https://cdn2.thecatapi.com/images/dt0.jpg","width":622,"height":480},{"id":"MTYwMjk0Mw","url":"https://cdn2.thecatapi.com/images/MTYwMjk0Mw.jpg","width":1435,"height":1435},{"id":"MTcxNDI5Mg","url":"https://cdn2.thecatapi.com/images/MTcxNDI5Mg.jpg","width":4288,"height":2848},{"id":"MTkyMDQxNg","url":"https://cdn2.thecatapi.com/images/MTkyMDQxNg.jpg","width":1446,"height":1834},{"id":"MjAxNTU5MA","url":"https://cdn2.thecatapi.com/images/MjAxNTU5MA.jpg","width":640,"height":480},{"id":"uvt2Psd9O","url":"https://cdn2.thecatapi.com/images/uvt2Psd9O.jpg","width":1024,"height":1024}
+  ],
+  "posts": [
+    {"id": 1, "catId": "7lr", "body": "meow meow", "title": "meow"},
+    {"id": 2, "catId": "dt0", "body": "mewmeow", "title": "mewmeow"},
+    {"id": 3, "catId": "dt0", "body": "mewmeowmeow", "title": "mmmeow"}
+  ]
+}
